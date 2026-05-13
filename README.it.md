@@ -93,7 +93,6 @@ Un progetto Python compatto dedicato ai fondamentali dello scripting, utile per 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M4RK-97&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4RK-97&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
 ---

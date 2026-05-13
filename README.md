@@ -62,8 +62,8 @@ Service layer for model orchestration, prompt/version management, and observabil
 
 I publish short technical write-ups on architecture decisions, debugging patterns, and AI tooling trade-offs.
 
-- `notes/` — engineering memos and implementation retrospectives
-- `research/` — experiments and benchmark summaries
+- Engineering memos and implementation retrospectives
+- Experiment logs and benchmark summaries
 
 ## Contact
 

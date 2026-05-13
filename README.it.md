@@ -108,4 +108,4 @@ Un progetto Python compatto dedicato ai fondamentali dello scripting, utile per 
 ## Contatti
 
 [![GitHub](https://img.shields.io/badge/GitHub-M4RK--97-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M4RK-97)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin.com-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin.com-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-fascetti-050abb40a/)

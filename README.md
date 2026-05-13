@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Niccolò%20Piazzi&fontSize=52&fontAlignY=38&desc=Architettura%20Backend%20•%20REST%20API%20•%20Sviluppo%20Full%20Stack&descAlignY=58&animation=fadeIn&color=gradient&customColorList=24,20,17,12" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FF00FF,100:0000FF&text=M4RK_97&desc=Architettura%20Backend%20•%20REST%20API%20•%20Sviluppo%20Full%20Stack&fontAlignY=38" />
 
 <br>
 

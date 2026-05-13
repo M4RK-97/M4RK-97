@@ -28,25 +28,25 @@ I work across backend systems, platform tooling, and AI-assisted workflows—wit
 
 ## Featured projects
 
-### Flagship product — `project-alpha`
+### Flagship product — `product-platform` (private)
 Production-grade platform module focused on reliability, deployment confidence, and clear operational ownership.
 
 **Stack:** `TypeScript`, `PostgreSQL`, `Docker`, `AWS`
 **Focus:** reducing deployment risk while improving release speed.
 
-### Open source — `oss-package-name`
+### Open source — `typed-utils`
 A small, composable library designed to solve one sharp problem with clean APIs and strong defaults.
 
 **Stack:** `TypeScript`, `Node.js`, `Vitest`
 **Focus:** ergonomic abstractions without hidden complexity.
 
-### Experiments — `lab-notes`
+### Experiments — `engineering-lab`
 A running set of prototypes and technical spikes validating ideas before production investment.
 
 **Stack:** `Python`, `Jupyter`, `SQLite`
 **Focus:** rapid iteration and evidence-driven technical decisions.
 
-### Devtools — `devtool-kit`
+### Devtools — `workflow-toolkit`
 CLI and automation helpers that streamline local setup, test feedback loops, and CI reliability.
 
 **Stack:** `Bash`, `Node.js`, `GitHub Actions`
@@ -68,6 +68,5 @@ I publish short technical write-ups on architecture decisions, debugging pattern
 ## Contact
 
 - GitHub: [@M4RK-97](https://github.com/M4RK-97)
-- Email: [hello@yourdomain.dev](mailto:hello@yourdomain.dev)
-- Website: [yourdomain.dev](https://yourdomain.dev)
-- LinkedIn: [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)
+- Email: [hello@m4rk.dev](mailto:hello@m4rk.dev)
+- Website: [m4rk.dev](https://m4rk.dev)

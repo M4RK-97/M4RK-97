@@ -1,73 +1,113 @@
 [Italiano](README.it.md)
 
-# M4RK-97
+<div align="center">
 
-Backend systems, automation, and operational tooling.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:1D4ED8,100:38BDF8&text=M4RK-97&desc=Full%20Stack%20Developer&fontColor=E5EEF9&fontAlignY=38&descAlignY=58" />
 
-I build software with a bias for clarity: explicit APIs, maintainable structure, and workflows that hold up under real use.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=93C5FD&center=true&vCenter=true&width=780&lines=Building+backend-first+products;Python+%E2%80%A2+PHP+%E2%80%A2+JavaScript+%E2%80%A2+Bash;Automation%2C+architecture%2C+and+clean+delivery;Based+in+Pisa%2C+Italy" />
 
----
+_Building operational software with clean boundaries and reliable workflows._
 
-## Current focus
-- Building backend-heavy applications with a strong operational layer.
-- Working primarily with `Python`, `FastAPI`, `PHP`, `Laravel`, `Bash`, and `Docker`.
-- Interested in API design, authorization flows, automation, and developer-facing tooling.
-- Currently refining patterns around monitoring, internal dashboards, and service-oriented backends.
+</div>
 
 ---
 
-## Engineering philosophy
-- Keep architecture understandable before making it clever.
-- Favor explicit boundaries, predictable behavior, and test coverage where it reduces risk.
-- Treat maintainability as a feature: naming, structure, and operational clarity matter.
-- Build with product intent: technical decisions should improve reliability, speed, or usability.
+## About Me
+
+- I build full stack applications with a strong backend and operations mindset.
+- I focus on systems that solve concrete workflow problems, from internal dashboards to automation-heavy services.
+- I care about architecture, maintainability, and keeping projects understandable as they grow.
+- Based in Pisa, Italy, I prefer practical engineering over noise and unnecessary complexity.
 
 ---
 
-## Tech stack
-- Core languages: `Python`, `PHP`, `JavaScript`, `Bash`
-- Backend: `FastAPI`, `Laravel`, REST APIs, session-based auth, RBAC patterns
-- Data & runtime: `SQLite`, `MySQL`, `Docker`, Linux environments
-- Tooling: `GitHub Actions`, CLI automation, shell scripting
+## Tech Stack
+
+### Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+### Frontend
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### Backend
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+### Database & DevOps
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
 
 ---
 
-## Featured projects
+## Featured Projects
 
-### Flagship projects
-- [gestionale_attivita](https://github.com/M4RK-97/gestionale_attivita) — Operational management system for FiveM servers built with FastAPI, server-side auth, role-based access control, audit logging, and game-server sync endpoints.
-- [its-fs-laravel-m2m](https://github.com/M4RK-97/its-fs-laravel-m2m) — Laravel project centered on a `User <-> Project` many-to-many domain, with CRUD APIs, authorization policies, automated tests, and CI.
+### gestionale_attivita
+An operational management system that brings authentication, role-based access, audit trails, and workflow control into a single backend-driven application.
 
-### OSS work
-- [its-bash-sistema-notifiche-allerting-multicanale](https://github.com/M4RK-97/its-bash-sistema-notifiche-allerting-multicanale) — Multi-channel alerting system using Bash, PHP, and Docker, designed around monitoring, notification delivery, rate limiting, and a lightweight dashboard.
+`Python` `JavaScript`
 
-### Experiments
-- [esercizio_1](https://github.com/M4RK-97/esercizio_1) — Small Python exercise repository, useful as a compact space for scripting practice and incremental experimentation.
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M4RK-97/gestionale_attivita)
 
-### AI tooling
-- Public AI-focused work is not a major part of this profile yet. When it is, it will likely sit at the intersection of workflow automation and developer tooling.
+### its-fs-laravel-m2m
+A Laravel project built to model many-to-many relationships cleanly, with API endpoints, authorization rules, and a structure designed for maintainable growth.
 
-### Infra / devtools
-- Current public work already leans in this direction through shell automation, containerized setups, CI pipelines, and operational support tooling.
+`PHP` `Laravel`
 
----
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M4RK-97/its-fs-laravel-m2m)
 
-## Notes
-- Interested in software that is practical, inspectable, and easy to evolve.
-- Especially drawn to backend systems that mix product workflows with operational concerns.
+### its-bash-sistema-notifiche-allerting-multicanale
+A multi-channel alerting system focused on monitoring, notification routing, and operational visibility using a lightweight automation stack.
 
----
+`Bash` `PHP` `Docker`
 
-## Terminal / dev environment
-- Shell: `Bash` and PowerShell when needed
-- Editor: `VS Code`
-- Workflow: local-first development, reproducible setup, minimal tooling overhead
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M4RK-97/its-bash-sistema-notifiche-allerting-multicanale)
 
----
+### esercizio_1
+A compact Python project centered on scripting fundamentals, useful for small utilities and iterative experimentation.
 
-## Contact
-- GitHub: [@M4RK-97](https://github.com/M4RK-97)
+`Python`
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M4RK-97/esercizio_1)
 
 ---
 
-_Deliberately minimal. The work should speak before the profile does._
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M4RK-97&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4RK-97&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
+
+---
+
+## Currently Learning
+
+- `Databases` to improve data modeling and query design.
+- `Laravel` to sharpen application structure and backend conventions.
+- `Java` to expand beyond scripting-oriented and web-first environments.
+
+---
+
+## Contacts
+
+[![GitHub](https://img.shields.io/badge/GitHub-M4RK--97-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M4RK-97)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin.com-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-marco.fascetti1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marco.fascetti1@gmail.com)

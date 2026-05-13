@@ -109,4 +109,3 @@ A compact Python project centered on scripting fundamentals, useful for small ut
 
 [![GitHub](https://img.shields.io/badge/GitHub-M4RK--97-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M4RK-97)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-linkedin.com-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-marco.fascetti1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marco.fascetti1@gmail.com)

@@ -23,7 +23,7 @@ _Costruisco software operativo con confini chiari e workflow affidabili._
 
 ## Stack Tecnologico
 
-### Linguaggi
+<h3 align="center">Linguaggi</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -32,13 +32,13 @@ _Costruisco software operativo con confini chiari e workflow affidabili._
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
-### Frontend
+<h3 align="center">Frontend</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### Backend
+<h3 align="center">Backend</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -47,7 +47,7 @@ _Costruisco software operativo con confini chiari e workflow affidabili._
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
-### Database e DevOps
+<h3 align="center">Database e DevOps</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
